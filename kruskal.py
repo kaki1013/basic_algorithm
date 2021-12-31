@@ -5,7 +5,6 @@ def find_set(x):
         x = parents[x]
     return x
 
-
 """
 N: 정점의 개수 (0번 ~ N-1번)
 M: 간선의 개수

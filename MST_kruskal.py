@@ -1,4 +1,5 @@
 # 1197 풀이: https://www.acmicpc.net/source/share/03ced5904c3a4d4ea16b9db00e55587e
+# 참고(증명 등): https://jeonyeohun.tistory.com/93
 import sys
 input = sys.stdin.readline
 sys.setrecursionlimit(10**4)

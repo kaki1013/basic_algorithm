@@ -1,4 +1,5 @@
 # 1197 풀이: https://www.acmicpc.net/source/share/6114c880a073475e80c7da1f03150562
+# 참고(증명 등): https://jeonyeohun.tistory.com/93
 import sys
 import heapq
 input = sys.stdin.readline

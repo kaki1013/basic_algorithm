@@ -1,3 +1,4 @@
+# BOJ 20040 : 사이클 감지
 import sys
 
 input = sys.stdin.readline
